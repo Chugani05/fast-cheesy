@@ -1,5 +1,9 @@
 # Fast & Cheesy
 
+<div align=center>
+  <img src="./resources/fast-cheese.png" alt="final look of the project" width="100%">
+</div>
+
 ## Content
 - [Description](#description)
 - [Link](#link)
